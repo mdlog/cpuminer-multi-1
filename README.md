@@ -24,6 +24,8 @@ Algorithms
  * ✓ __scrypt:N__
  * ✓ __scrypt-jane:N__
  * ✓ __sha256d__ (Bitcoin, Freicoin, Peercoin/PPCoin, Terracoin, ...)
+ * ✓ __allium__ (Garlicoin [GRLC])
+ * ✓ __alliumv2__ (TuxCoin [TUX])
  * ✓ __axiom__ (Axiom Shabal-256 based MemoHash)
  * ✓ __bastion__ (Joincoin [J])
  * ✓ __bitcore__ Permuted serie of 10 algos (BitCore)
